@@ -1,0 +1,61 @@
+[1mdiff --git a/main.c b/main.c[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a33cb57[m
+[1m--- /dev/null[m
+[1m+++ b/main.c[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mvoid main(void)[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/test.oa b/test.oa[m
+[1mnew file mode 100644[m
+[1mindex 0000000..69ec23d[m
+[1m--- /dev/null[m
+[1m+++ b/test.oa[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mddd[m
+\ No newline at end of file[m
+[1mdiff --git a/test.tmp b/test.tmp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0490b38[m
+[1m--- /dev/null[m
+[1m+++ b/test.tmp[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mddd[m
+[32m+[m[32mddddd[m
+\ No newline at end of file[m
+[1mdiff --git a/test1.c b/test1.c[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f7eb958[m
+[1m--- /dev/null[m
+[1m+++ b/test1.c[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mvoid test1(void)[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/test2.c b/test2.c[m
+[1mnew file mode 100644[m
+[1mindex 0000000..25d6092[m
+[1m--- /dev/null[m
+[1m+++ b/test2.c[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mvoid test2(void)[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/test3.c b/test3.c[m
+[1mnew file mode 100644[m
+[1mindex 0000000..effe384[m
+[1m--- /dev/null[m
+[1m+++ b/test3.c[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mvoid test3(void)[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
